@@ -1,0 +1,14 @@
+Enter number of locations in the city:
+3
+Enter the number of roads in the city:
+2
+Enter the roads in format: <source> <destination> <weight> (Indices should be between 0 and 2)
+0 1 5
+1 2 10
+Enter source location for shortest path:
+0
+Shortest paths from location 0:
+To location 0: 0
+To location 1: 5
+To location 2: 15
+Total weight of the Minimum Spanning Tree: 15
